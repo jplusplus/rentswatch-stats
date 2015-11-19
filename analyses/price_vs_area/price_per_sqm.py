@@ -114,9 +114,9 @@ img = figure.figimage(im, 0, figure.bbox.ymax - height, alpha=.05)
 img.set_zorder(20)
 
 # Saves image
-pylab.savefig('analyses/price_vs_area.png')
+pylab.savefig('analyses/price_vs_area/graph.png')
 
 # Saves CSV
-f = open("analyses/price_per_sqm.csv", "w")
+f = open("analyses/price_vs_area/table.csv", "w")
 f.write(csv)
 f.close()
