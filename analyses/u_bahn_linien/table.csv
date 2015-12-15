@@ -1,0 +1,84 @@
+city,line,station,price_per_sqm_reg,sdt_error,numobs
+"Berlin","U2","Theodor-Heuss-Platz",10.8495868918,0.375172036782,26
+"Berlin","U2","Kaiserdamm",10.6533341773,0.277666925877,25
+"Berlin","U2","Sophie-Charlotte-Platz",12.6915587896,0.345010329567,58
+"Berlin","U2","Bismarckstraße",12.782772822,0.385018709043,71
+"Berlin","U2","Deutsche Oper",12.1249844189,0.488276390688,52
+"Berlin","U2","Ernst-Reuter-Platz",12.1377031617,0.782369580791,23
+"Berlin","U2","Zoologischer Garten",n/a,n/a,2
+"Berlin","U2","Wittenbergplatz",13.1509198325,0.560822532909,20
+"Berlin","U2","Nollendorfplatz",11.2735930489,0.351528139827,41
+"Berlin","U2","Bülowstraße",10.5473487592,0.404878211418,33
+"Berlin","U2","Gleisdreieck",13.699712114,0.833735771377,30
+"Berlin","U2","Mendelssohn-Bartholdy-Park",13.4080332666,0.636624154513,46
+"Berlin","U2","Potsdamer Platz",17.9654305857,0.698772874862,65
+"Berlin","U2","Mohrenstraße",18.1565010286,0.663143875455,66
+"Berlin","U2","Stadtmitte",17.33923719,0.973905880367,24
+"Berlin","U2","Hausvogteiplatz",15.5317012527,1.72181519212,16
+"Berlin","U2","Spittelmarkt",12.098777895,1.1270975019,38
+"Berlin","U2","Märkisches Museum",10.8962441655,0.836122291162,20
+"Berlin","U2","Klosterstraße",9.85652319992,0.955888872357,15
+"Berlin","U2","Alexanderplatz",13.4327751965,0.519545821043,92
+"Berlin","U2","Rosa-Luxemburg-Platz",14.2287325236,0.370880853709,175
+"Berlin","U2","Senefelderplatz",14.521923929,0.343342666449,69
+"Berlin","U2","Eberswalder Straße",14.3385296124,0.534835461363,73
+"Berlin","U2","Schönhauser Allee",12.3317697708,0.471986537024,58
+"Berlin","U2","Vinetastraße",11.7602087097,0.736974857767,12
+"Berlin","U2","Pankow",11.963099285,0.451638661613,30
+"Berlin","U8","Wittenau",7.88768360966,0.311315541177,10
+"Berlin","U8","Rathaus Reinickendorf",11.3901617776,0.668162517055,5
+"Berlin","U8","Karl-Bonhoeffer-Nervenklinik",n/a,n/a,1
+"Berlin","U8","Lindauer Allee",10.5018312114,0.268424503896,11
+"Berlin","U8","Paracelsus-Bad",9.89268891013,0.329727266379,13
+"Berlin","U8","Residenzstraße",9.37551560118,0.560903254192,22
+"Berlin","U8","Franz-Neumann-Platz",9.94005551382,0.237277190504,41
+"Berlin","U8","Osloer Straße",8.88155956841,0.412082807484,23
+"Berlin","U8","Pankstraße",9.54989673314,0.290855220233,27
+"Berlin","U8","Gesundbrunnen",9.40639227876,0.297394298964,10
+"Berlin","U8","Voltastraße",9.11129909092,0.413808500633,17
+"Berlin","U8","Bernauer Straße",12.2671596497,0.637864261596,51
+"Berlin","U8","Rosenthaler Platz",15.9536228167,0.514422887681,94
+"Berlin","U8","Weinmeisterstraße",15.0041190951,0.434800452009,119
+"Berlin","U8","Alexanderplatz",13.4327751965,0.519545821043,92
+"Berlin","U8","Jannowitzbrücke",10.094360915,0.831046771862,17
+"Berlin","U8","Heinrich-Heine-Straße",10.4234017553,0.687764902333,21
+"Berlin","U8","Moritzplatz",14.7960784065,0.691824933112,21
+"Berlin","U8","Kottbusser Tor",13.7823982908,0.500312687344,34
+"Berlin","U8","Schönleinstraße",12.3196783958,0.364458660899,42
+"Berlin","U8","Hermannplatz",11.5876362696,0.456168381476,22
+"Berlin","U8","Boddinstraße",11.823068777,0.552847679511,28
+"Berlin","U8","Leinestraße",11.4167212872,0.451411224402,42
+"Berlin","U8","Hermannstraße",11.5851067302,0.351667772407,41
+"Berlin","U5","Alexanderplatz",13.4327751965,0.519545821043,92
+"Berlin","U5","Schillingstraße",16.3834971836,1.62467714234,9
+"Berlin","U5","Strausberger Platz",15.1235607154,0.55971804033,41
+"Berlin","U5","Weberwiese",12.8790607791,0.473157644005,30
+"Berlin","U5","Frankfurter Tor",13.0530531094,0.313608977978,100
+"Berlin","U5","Samariterstraße",13.5754238279,0.354452035579,86
+"Berlin","U5","Frankfurter Allee",12.2472709332,0.557629657662,38
+"Berlin","U5","Magdalenenstraße",9.13653444884,0.346014624951,16
+"Berlin","U5","Lichtenberg",11.1376324556,0.348750808284,40
+"Berlin","U5","Friedrichsfelde",10.5196084169,0.364422907626,41
+"Berlin","U5","Tierpark",9.41706607855,0.188975062175,14
+"Berlin","U5","Biesdorf-Süd",n/a,n/a,0
+"Berlin","U5","Elsterwerdaer Platz",n/a,n/a,0
+"Berlin","U5","Wuhletal",n/a,n/a,0
+"Berlin","U5","Kaulsdorf-Nord",8.56486251783,0.204573879453,35
+"Berlin","U5","Neue Grottkauer Straße",8.39931317295,0.087385884559,19
+"Berlin","U5","Cottbusser Platz",7.13165257009,0.364251129468,14
+"Berlin","U5","Hellersdorf",8.90036339059,0.155159715722,16
+"Berlin","U5","Louis-Lewin-Straße",9.56557213507,0.986302593284,16
+"Berlin","U5","Hönow",n/a,n/a,0
+"Berlin","U1","Uhlandstraße",13.3749334979,1.08451009419,18
+"Berlin","U1","Kurfürstendamm",11.9502860842,0.748201310256,18
+"Berlin","U1","Wittenbergplatz",13.1509198325,0.560822532909,20
+"Berlin","U1","Nollendorfplatz",11.2735930489,0.351528139827,41
+"Berlin","U1","Kurfürstenstraße",11.8700787852,0.482204290586,39
+"Berlin","U1","Gleisdreieck",13.699712114,0.833735771377,30
+"Berlin","U1","Möckernbrücke",13.816419096,0.44302794067,23
+"Berlin","U1","Hallesches Tor",12.7184337557,0.534536563686,25
+"Berlin","U1","Prinzenstraße",14.2620834658,0.588228565007,22
+"Berlin","U1","Kottbusser Tor",13.7823982908,0.500312687344,34
+"Berlin","U1","Görlitzer Bahnhof",12.399431473,0.431911669978,47
+"Berlin","U1","Schlesisches Tor",12.0372450705,0.870024774707,27
+"Berlin","U1","Warschauer Straße",15.2750660892,0.296430226176,45
